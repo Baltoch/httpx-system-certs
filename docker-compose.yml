@@ -1,0 +1,7 @@
+services:
+  tests-httpx-system-certs:
+    build:
+      context: .
+      dockerfile: .\Dockerfile
+    ports:
+      - "443:443"
