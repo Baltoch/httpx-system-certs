@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+httpx
+truststore
+pytest
+pytest-asyncio

@@ -1,0 +1,9 @@
+.venv
+*.egg
+*.egg-info
+build
+dist
+.gitignore
+LICENSE
+.github
+.git
