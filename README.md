@@ -2,6 +2,8 @@
 
 This package patches httpx.AsyncClient, httpx.AsyncHTTPTransport, httpx.Client, httpx.HTTPTransport, httpx.Proxy, httpx.create_ssl_context, httpx.delete, httpx.get, httpx.head, httpx.options, httpx.patch, httpx.post, httpx.put, httpx.request and httpx.stream to use system certificates authority store by default allowing the use of self signed certificates.
 
+![](demo.gif)
+
 ## Installation
 
 ```bash
